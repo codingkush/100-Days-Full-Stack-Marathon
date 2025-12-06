@@ -56,6 +56,3 @@ Everything here is **hands-on** — every concept is learned through a small pro
 
 Each project builds one concept thoroughly before moving forward.
 
----
-
-## 📁 Folder Structure for This Phase
