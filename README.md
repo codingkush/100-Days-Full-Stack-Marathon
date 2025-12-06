@@ -124,5 +124,92 @@ This marathon helps you master **frontend + backend full-stack development**, co
 
 ---
 
+# 🧠 Daily Workflow & Expectations
+
+Every day in the marathon includes:
+
+✔ Concept of the day  
+✔ Mini-project or feature implementation  
+✔ Strict rules/constraints  
+✔ Expected output or deployment  
+✔ Reflection notes  
+
+# 🏗 Major Projects You Will Build
+
+Progressively, you will build:
+
+### 🔵 React Projects
+- Counter App  
+- Todo App  
+- Weather App  
+- Notes App (localStorage)  
+- Form Validation App  
+- Multi-step Form (React Hook Form)  
+- Movie Search App (API + pagination)  
+- E-commerce Cart (Redux Toolkit)  
+- Blog UI + Routing  
+- Infinite scrolling news/feed  
+- Protected Dashboard UI  
+
+### 🔴 Spring Boot Backend Projects
+- CRUD REST API  
+- User authentication API  
+- File upload/download service  
+- Search + filter + pagination API  
+- Swagger documentation  
+- JWT authentication + refresh token cycle  
+- WebSocket messaging backend  
+
+### 🟣 Full-Stack Projects
+- Todo app + backend CRUD  
+- Authentication system (React + Spring Boot + JWT)  
+- Admin Dashboard  
+- File upload client + backend  
+- Chat App (WebSockets)  
+- Video calling app (WebRTC signaling)  
+- Final production-grade full-stack system  
+
+Each project grows in complexity and mirrors **real industry development**.
+
+---
+
+# 📌 Rules of the Marathon
+
+To maintain discipline and quality:
+
+- Minimum **1 hour/day** (non-negotiable)  
+- No skipping — if skipped, the next day = **double work**  
+- Every day must produce a **visible output**  
+- Every day must include a **README summary**  
+- Clean folder structure + naming conventions required  
+- Push to GitHub **daily**  
+- Build at least **1 feature per concept**  
+- Do NOT jump to backend unless frontend foundation is complete  
+- No copy–paste — build your own implementations  
+
+### 📅 End-of-Week Ritual
+
+At the end of each week:
+
+✔ Write a weekly summary  
+✔ Evaluate weaknesses  
+✔ Plan next week’s improvements  
+
+This ensures consistency, reflection, and growth.
+
+---
+
+# 📝 Weekly Review (Optional Section)
+Each week you will add a short note:
+
+### Week 1 Summary
+- Concepts learned:
+- Projects built:
+- What I struggled with:
+- What I improved:
+- Plan for next week:
+
+
+
 > 🏁 By the end of this marathon, you will have built multiple real projects + one production-grade full-stack system.
 
